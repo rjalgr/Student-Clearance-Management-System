@@ -3,7 +3,7 @@
 <?= $this->section('content') ?>
 
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;500;700&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Miranda+Sans:ital,wght@0,400..700;1,400..700&display=swap');
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
 
